@@ -2,7 +2,7 @@
 
 Upload your resume and get AI-powered analysis including skill extraction, job description matching, and improvement suggestions.
 
-## 🚀 Try it LIVE 
+## 🚀 Try it LIVE - https://huggingface.co/spaces/dakota-stpierre/RESUME_ANALYZER
 
 ## 🛠️ Tech Stack
 - **NLP Model:** BERT-based Named Entity Recognition
