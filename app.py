@@ -1,6 +1,3 @@
-# Install packages
-!pip install gradio transformers PyPDF2 torch
-
 import gradio as gr
 from transformers import pipeline
 import PyPDF2
